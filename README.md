@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Reis
 - 👀 I’m interested in Android and Kotlin
 - 📫 How to reach me:
-Twitter: @@DanielRdev00
+Twitter: @DanielRdev00
 
 
 <!---
